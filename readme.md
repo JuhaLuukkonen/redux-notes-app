@@ -1,10 +1,19 @@
 Author/editor: Juha Luukkonen
 
+
+Node(js) have to be installed when using locally: https://nodejs.org/en/
+
+
+
 Inside your new project’s directory run the following commands:
 
 npm init -y,
+
 npm i redux,
+
 npm i webpack webpack-cli @babel/core babel-loader @babel/preset-env --save-dev
+
+
 
 Deployed also: https://redux-notes-app.herokuapp.com/
 
