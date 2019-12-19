@@ -2,8 +2,8 @@ Author/editor: Juha Luukkonen
 
 Inside your new project’s directory run the following commands:
 
-npm init -y
-npm i redux
+npm init -y,
+npm i redux,
 npm i webpack webpack-cli @babel/core babel-loader @babel/preset-env --save-dev
 
 
