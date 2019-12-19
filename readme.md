@@ -6,6 +6,8 @@ npm init -y,
 npm i redux,
 npm i webpack webpack-cli @babel/core babel-loader @babel/preset-env --save-dev
 
+Deployed also: https://redux-notes-app.herokuapp.com/
+
 
 
 # Redux Notes Application
